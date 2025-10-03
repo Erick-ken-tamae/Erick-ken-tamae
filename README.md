@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou Erick Ken Tamae 👋
 
-<!--
-**Erick-ken-tamae/Erick-ken-tamae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante Inteligência Artificial & Ciência de Dados.  
 
-Here are some ideas to get you started:
+## 🛠️ Linguagens que já usei
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Minhas estatísticas no GitHub
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-ken-tamae&show_icons=true&count_private=true&theme=radical)
+
+## 💻 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-ken-tamae&layout=compact&theme=radical)
