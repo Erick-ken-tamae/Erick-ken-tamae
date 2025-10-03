@@ -14,3 +14,7 @@ Sou estudante Inteligência Artificial & Ciência de Dados.
 
 ## 💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-ken-tamae&layout=compact&theme=radical)
+
+## 👥 Where you can find me!
+📧 E-mail: erickkentamae@gmail.com
+🔗 Linkedin:https://www.linkedin.com/in/erick-ken-tamae-479314283/
