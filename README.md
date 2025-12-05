@@ -1,7 +1,7 @@
-# 👋 Hi there! I'm Erick Ken Tamae  
+# 👋 Hi there! I'm Erick Ken Tamae
 
 🎓 Computer Science and Artificial Intelligence student  
-💻 Passionate aboutsoftware development, AI and robotics  
+💻 Passionate about software development, AI and robotics  
 🚀 Focused on growth, learning, and building awesome projects  
 ➡️ Currently learning: Front-end development
 
@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Erick'(https://github-readme-stats.vercel.app/api?username=Erick-ken-tamae&show_icons=true&count_private=true&theme=radical)
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-ken-tamae&show_icons=true&count_private=true&theme=radical)
 
 ---
 
@@ -39,4 +39,4 @@
 
 ---
 
-⭐ *"Keep pushing forward, every line of code is one step closer to mastery."*  
+⭐ *"Keep pushing forward, every line of code is one step closer to mastery."*
