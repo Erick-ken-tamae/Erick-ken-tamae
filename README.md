@@ -19,25 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats (100% funcionando)
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/erick-ken-tamae?style=social" />
-  <img src="https://img.shields.io/github/stars/erick-ken-tamae?style=social" />
-  <img src="https://img.shields.io/github/last-commit/erick-ken-tamae/erick-ken-tamae?label=last%20update" />
-</p>
-
----
-
-## 🔥 Most Used Languages (versão simples e funcional)
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/erick-ken-tamae/erick-ken-tamae?color=blue&label=Top%20Language" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
