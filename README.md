@@ -18,19 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-ken-tamae&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-ken-tamae&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
