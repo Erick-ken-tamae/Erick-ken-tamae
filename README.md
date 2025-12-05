@@ -7,52 +7,42 @@
 </p>
 
 ---
+## 🛠️ Tech Stack  
 
-## 🚀 About Me  
-- 🌟 Always learning and improving  
-- 🔭 Currently studying: **Front-end Development (HTML, CSS, JS)**  
-- 🤖 Goal: Work with **AI applied to accessibility & robotics**  
-- 💡 I love creating small projects that solve real problems  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+### 💻 Languages & Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (100% funcionando)
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=erick-ken-tamae&show_icons=true&count_private=true&theme=radical" 
-       height="180" />
+  <img src="https://img.shields.io/github/followers/erick-ken-tamae?style=social" />
+  <img src="https://img.shields.io/github/stars/erick-ken-tamae?style=social" />
+  <img src="https://img.shields.io/github/last-commit/erick-ken-tamae/erick-ken-tamae?label=last%20update" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Most Used Languages (versão simples e funcional)
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=erick-ken-tamae&layout=compact&theme=radical" 
-       height="180" />
+  <img src="https://img.shields.io/github/languages/top/erick-ken-tamae/erick-ken-tamae?color=blue&label=Top%20Language" />
 </p>
 
+---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/erick-ken-tamae  
-- 💻 **GitHub:** https://github.com/Erick-ken-tamae
+- 💻 **GitHub:** https://github.com/Erick-ken-tamae  
 
 ---
 
