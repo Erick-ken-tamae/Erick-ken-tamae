@@ -34,7 +34,7 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=erick-ken-tamae&show_icons=true&count_private=true&theme=radical" 
+       src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=erick-ken-tamae&show_icons=true&count_private=true&theme=radical" 
        height="180" />
 </p>
 
@@ -44,11 +44,10 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-ken-tamae&layout=compact&theme=radical" 
+       src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=erick-ken-tamae&layout=compact&theme=radical" 
        height="180" />
 </p>
 
----
 
 ## 🌐 Connect with Me
 
