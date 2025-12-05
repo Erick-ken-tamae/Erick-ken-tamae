@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-ken-tamae&show_icons=true&count_private=true&theme=radical)
+![Erick'(https://github-readme-stats.vercel.app/api?username=Erick-ken-tamae&show_icons=true&count_private=true&theme=radical)
 
 ---
 
