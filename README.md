@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Erick Ken Tamae</h1>
 
 <p align="center">
-  🎓 Computer Science, Artificial Intelligence & Data Science Student <br>
+  🎓 Computer Science Student <br>
   🤖 Passionate about AI, robotics, and building impactful tech <br>
   💻 Developer focused on growth, clean code, and real projects <br>
 </p>
