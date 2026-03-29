@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm Erick Ken Tamae</h1>
+<h1 align="center">I'm Erick Ken Tamae</h1>
 
 <p align="center">
   🎓 Computer Science Student <br>
