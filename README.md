@@ -1,6 +1,6 @@
-<h1 align="center">I'm Erick Ken Tamae</h1>
+<h1>I'm Erick Ken Tamae</h1>
 
-<p align="center">
+<p>
   🎓 Computer Science Student <br>
   🤖 Passionate about AI, robotics, and building impactful tech <br>
   💻 Developer focused on growth, clean code, and real projects <br>
